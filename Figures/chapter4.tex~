@@ -1,0 +1,96 @@
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{conXwordtype-cogs.png}
+\caption{Plotted model fits for out-of-context cognate data.}
+\label{conXwordtype-cogs}
+\end{figure}
+
+\clearpage
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{conXwordtype-homs.png}
+\caption{Plotted model fits for out-of-context homograph data.}
+\label{conXwordtype-homs}
+\end{figure}
+
+\clearpage
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{conXwordtype-cogs_1.png}
+\caption{Plotted model fits for out-of-context cognate data.}
+\label{conXwordtype-cogs_1}
+\end{figure}
+
+\clearpage
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{conXwordtype-homs_1.png}
+\caption{Plotted model fits for out-of-context homograph data.}
+\label{conXwordtype-homs_1}
+\end{figure}
+
+\clearpage
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{Rplot34.png}
+\caption{Plotted model fits for in-context cognate data. The y-axis is log reaction time. clFrequency\_1 is mean-centered log word frequency; cLength is mean-centered word length, Spanish\_z is the z-score Spanish fluency picture naming composite, and Construction.conts represents the different construction conditions.}
+\label{Rplot34}
+\end{figure}
+
+\clearpage
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{Rplot35.png}
+\caption{Plotted model fits for in-context homograph data. The y-axis is log reaction time. clFrequency\_1 is mean-centered log word frequency; cLength is mean-centered word length, Spanish\_z is the z-score Spanish fluency picture naming composite, and Construction.conts represents the different construction conditions.}
+\label{Rplot35}
+\end{figure}
+
+\clearpage
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{conXwordtype-cogs-excluded.png}
+\caption{Plotted model fits for out-of-context cognate data after reanalysis in which item pairs that did not show cognate facilitation were excluded.}
+\label{conXwordtype-cogs-excluded}
+\end{figure}
+
+\clearpage
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{conXwordtype-homs-excluded.png}
+\caption{Plotted model fits for out-of-context homograph data after reanalysis in which item pairs that did not show homograph inhibition were excluded.}
+\label{conXwordtype-homs-excluded}
+\end{figure}
+
+\clearpage
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{Rplot38.png}
+\caption{Plotted model fits for in-context cognate data after reanalysis in out-of-context item pairs that did not show cognate facilitation were excluded. The y-axis is log reaction time. clFrequency\_1 is mean-centered log word frequency; cLength is mean-centered word length, Spanish\_z is the z-score Spanish fluency picture naming composite, and Construction.conts represents the different construction conditions.}
+\label{Rplot38}
+\end{figure}
+
+\clearpage
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{Rplot37.png}
+\caption{Plotted model fits for in-context homograph data after reanalysis in out-of-context item pairs that did not show homograph inhibition were excluded. The y-axis is log reaction time. clFrequency\_1 is mean-centered log word frequency; cLength is mean-centered word length, Spanish\_z is the z-score Spanish fluency picture naming composite, and Construction.conts represents the different construction conditions.}
+\label{Rplot37}
+\end{figure}
+
+\clearpage
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{Rplot40.png}
+\caption{Plotted model fits for in-context cognate data after reanalysis in out-of-context item pairs that did not show cognate facilitation were excluded. In this model, significant higher-order interactions with executive control variables and proficiency variables were included. The y-axis is log reaction time. clFrequency\_1 is mean-centered log word frequency, cLength is mean-centered word length, Spanish\_z is the z-score Spanish fluency picture naming composite, OSpanScore is the operation span score, AXCPT\_Ratio\_RT is the ratio value for the AXCPT task, and Construction.conts represents the different construction conditions.}
+\label{Rplot40}
+\end{figure}

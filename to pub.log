@@ -1,0 +1,1126 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.3.31)  7 APR 2015 16:12
+entering extended mode
+**to*pub
+
+("L:\Dropbox\Link to Writing\PSU Requirements\Dissertation\Scrivener\Latex Outp
+ut\to pub.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+
+("L:\Dropbox\Link to Writing\PSU Requirements\Dissertation\Scrivener\Latex Outp
+ut\mmd-scrivcustom-header.tex"
+("L:\Dropbox\Link to Writing\PSU Requirements\Dissertation\Scrivener\Latex Outp
+ut\psuthesis.cls"
+Document Class: psuthesis 2013/10/18 v2.4.0 psuthesis class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\bk12.clo"
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count88
+\calc@Bcount=\count89
+\calc@Adimen=\dimen103
+\calc@Bdimen=\dimen104
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count90
+\calc@Cskip=\skip45
+)
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\tocloft\tocloft.sty
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 44.
+\cftparskip=\skip46
+\cftbeforetoctitleskip=\skip47
+\cftaftertoctitleskip=\skip48
+\cftbeforepartskip=\skip49
+\cftpartnumwidth=\skip50
+\cftpartindent=\skip51
+\cftbeforechapskip=\skip52
+\cftchapindent=\skip53
+\cftchapnumwidth=\skip54
+\cftbeforesecskip=\skip55
+\cftsecindent=\skip56
+\cftsecnumwidth=\skip57
+\cftbeforesubsecskip=\skip58
+\cftsubsecindent=\skip59
+\cftsubsecnumwidth=\skip60
+\cftbeforesubsubsecskip=\skip61
+\cftsubsubsecindent=\skip62
+\cftsubsubsecnumwidth=\skip63
+\cftbeforeparaskip=\skip64
+\cftparaindent=\skip65
+\cftparanumwidth=\skip66
+\cftbeforesubparaskip=\skip67
+\cftsubparaindent=\skip68
+\cftsubparanumwidth=\skip69
+\cftbeforeloftitleskip=\skip70
+\cftafterloftitleskip=\skip71
+\cftbeforefigskip=\skip72
+\cftfigindent=\skip73
+\cftfignumwidth=\skip74
+\c@lofdepth=\count91
+\c@lotdepth=\count92
+\cftbeforelottitleskip=\skip75
+\cftafterlottitleskip=\skip76
+\cftbeforetabskip=\skip77
+\cfttabindent=\skip78
+\cfttabnumwidth=\skip79
+)
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+\fancy@headwidth=\skip80
+\f@ncyO@elh=\skip81
+\f@ncyO@erh=\skip82
+\f@ncyO@olh=\skip83
+\f@ncyO@orh=\skip84
+\f@ncyO@elf=\skip85
+\f@ncyO@erf=\skip86
+\f@ncyO@olf=\skip87
+\f@ncyO@orf=\skip88
+)
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\textcase\textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+\mylength=\skip89
+\mylonglength=\skip90
+\tempbox=\box26
+\psu@sigoptionskip=\skip91
+\psu@sigafteroptionskip=\skip92
+\psu@intersigspace=\skip93
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\lmodern.sty"
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype.sty
+Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\MT@toks=\toks15
+\MT@count=\count93
+LaTeX Info: Redefining \textls on input line 766.
+\MT@outer@kern=\dimen105
+LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
+\MT@listname@count=\count94
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype-pdftex
+.def
+File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip94
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype.cfg
+File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip95
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen106
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen107
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count95
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count96
+\leftroot@=\count97
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count98
+\DOTSCASE@=\count99
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
+\dotsspace@=\muskip10
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks17
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks18
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks19
+\multlinegap=\skip96
+\multlinetaggap=\skip97
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\eqlist\eqlist.sty
+eqlist.sty by M. Vaeth: Revision 2.1
+Package: eqlist 2002/08/15 v2.1
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\eqparbox\eqparbox.sty
+Package: eqparbox 2013/03/15 v4.0 Create equal-widthed boxes
+\eqp@tempdima=\skip98
+\eqp@tempdimb=\skip99
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen115
+\extrarowheight=\dimen116
+\NC@list=\toks21
+\extratabsurround=\skip100
+\backup@length=\skip101
+)
+\eqp@tabular@box=\box29
+\eqp@list@box=\box30
+\eqp@list@indent=\skip102
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\trimspaces\trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)))
+\eql@cnt=\count107
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count108
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count109
+\U@D=\dimen119
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\biblatex.sty
+Package: biblatex 2014/06/25 v2.9a programmable bibliographies (PK/JW/AB)
+
+
+Package biblatex Warning: No "backend" specified, using Biber backend.
+(biblatex)                To use BibTeX, load biblatex with 
+(biblatex)                the "backend=bibtex" option.
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\biblatex2.sty
+Package: biblatex2 2014/06/25 v2.9a programmable bibliographies (biber) (PK/JW/
+AB)
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
+Package: etoolbox 2015/03/19 v2.1d e-TeX tools for LaTeX (JAW)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\misc\etex.sty"
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count110
+)
+\etb@tempcnta=\count111
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count112
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count113
+\c@listtotal=\count114
+\c@listcount=\count115
+\c@liststart=\count116
+\c@liststop=\count117
+\c@citecount=\count118
+\c@citetotal=\count119
+\c@multicitecount=\count120
+\c@multicitetotal=\count121
+\c@instcount=\count122
+\c@maxnames=\count123
+\c@minnames=\count124
+\c@maxitems=\count125
+\c@minitems=\count126
+\c@citecounter=\count127
+\c@savedcitecounter=\count128
+\c@uniquelist=\count129
+\c@uniquename=\count130
+\c@refsection=\count131
+\c@refsegment=\count132
+\c@maxextratitle=\count133
+\c@maxextratitleyear=\count134
+\c@maxextrayear=\count135
+\c@maxextraalpha=\count136
+\c@abbrvpenalty=\count137
+\c@highnamepenalty=\count138
+\c@lownamepenalty=\count139
+\c@maxparens=\count140
+\c@parenlevel=\count141
+\blx@tempcnta=\count142
+\blx@tempcntb=\count143
+\blx@tempcntc=\count144
+\blx@maxsection=\count145
+\blx@maxsegment@0=\count146
+\blx@notetype=\count147
+\blx@parenlevel@text=\count148
+\blx@parenlevel@foot=\count149
+\blx@sectionciteorder@0=\count150
+\labelnumberwidth=\skip103
+\labelalphawidth=\skip104
+\biblabelsep=\skip105
+\bibitemsep=\skip106
+\bibnamesep=\skip107
+\bibinitsep=\skip108
+\bibparsep=\skip109
+\bibhang=\skip110
+\blx@bcfin=\read1
+\blx@bcfout=\write3
+\c@mincomprange=\count151
+\c@maxcomprange=\count152
+\c@mincompwidth=\count153
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\blx-dm.def)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'apa.dbx' found.
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex-apa\apa.dbx
+File: apa.dbx 2015/01/23 v6.7 APA biblatex style data model
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count154
+\c@savedafterword=\count155
+\c@annotator=\count156
+\c@savedannotator=\count157
+\c@author=\count158
+\c@savedauthor=\count159
+\c@bookauthor=\count160
+\c@savedbookauthor=\count161
+\c@commentator=\count162
+\c@savedcommentator=\count163
+\c@editor=\count164
+\c@savededitor=\count165
+\c@editora=\count166
+\c@savededitora=\count167
+\c@editorb=\count168
+\c@savededitorb=\count169
+\c@editorc=\count170
+\c@savededitorc=\count171
+\c@foreword=\count172
+\c@savedforeword=\count173
+\c@holder=\count174
+\c@savedholder=\count175
+\c@introduction=\count176
+\c@savedintroduction=\count177
+\c@namea=\count178
+\c@savednamea=\count179
+\c@nameb=\count180
+\c@savednameb=\count181
+\c@namec=\count182
+\c@savednamec=\count183
+\c@translator=\count184
+\c@savedtranslator=\count185
+\c@shortauthor=\count186
+\c@savedshortauthor=\count187
+\c@shorteditor=\count188
+\c@savedshorteditor=\count189
+\c@with=\count190
+\c@savedwith=\count191
+\c@writer=\count192
+\c@savedwriter=\count193
+\c@producer=\count194
+\c@savedproducer=\count195
+\c@execproducer=\count196
+\c@savedexecproducer=\count197
+\c@director=\count198
+\c@saveddirector=\count199
+\c@labelname=\count200
+\c@savedlabelname=\count201
+\c@institution=\count202
+\c@savedinstitution=\count203
+\c@lista=\count204
+\c@savedlista=\count205
+\c@listb=\count206
+\c@savedlistb=\count207
+\c@listc=\count208
+\c@savedlistc=\count209
+\c@listd=\count210
+\c@savedlistd=\count211
+\c@liste=\count212
+\c@savedliste=\count213
+\c@listf=\count214
+\c@savedlistf=\count215
+\c@location=\count216
+\c@savedlocation=\count217
+\c@organization=\count218
+\c@savedorganization=\count219
+\c@origlocation=\count220
+\c@savedoriglocation=\count221
+\c@origpublisher=\count222
+\c@savedorigpublisher=\count223
+\c@publisher=\count224
+\c@savedpublisher=\count225
+\c@language=\count226
+\c@savedlanguage=\count227
+\c@pageref=\count228
+\c@savedpageref=\count229
+\shorthandwidth=\skip111
+\shortjournalwidth=\skip112
+\shortserieswidth=\skip113
+\shorttitlewidth=\skip114
+\shortauthorwidth=\skip115
+\shorteditorwidth=\skip116
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\blx-compat.def
+File: blx-compat.def 2014/06/25 v2.9a biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\biblatex.def
+File: biblatex.def 
+\c@textcitecount=\count230
+\c@textcitetotal=\count231
+\c@textcitemaxnames=\count232
+\c@biburlnumpenalty=\count233
+Normal \count register pool exhausted, switching to extended pool.
+\c@biburlucpenalty=\count277
+\c@biburllcpenalty=\count278
+\c@smartand=\count279
+)
+Package biblatex Info: Trying to load bibliography style 'apa'...
+Package biblatex Info: ... file 'apa.bbx' found.
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex-apa\apa.bbx
+File: apa.bbx 2015/01/23 v6.7 APA biblatex references style
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\bbx\standard.bbx
+File: standard.bbx 2014/06/25 v2.9a biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count280
+\c@bbx:relatedtotal=\count281
+))
+Package biblatex Info: Trying to load citation style 'apa'...
+Package biblatex Info: ... file 'apa.cbx' found.
+ (C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex-apa\apa.cbx
+File: apa.cbx 2015/01/23 v6.7 APA biblatex citation style
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\citeyear'.
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\citeauthor'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\biblatex.cfg
+File: biblatex.cfg 
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip117
+\LTright=\skip118
+\LTpre=\skip119
+\LTpost=\skip120
+\LTchunksize=\count282
+\LTcapwidth=\dimen120
+\LT@head=\box31
+\LT@firsthead=\box32
+\LT@foot=\box33
+\LT@lastfoot=\box34
+\LT@cols=\count283
+\LT@rows=\count284
+\c@LT@tables=\count285
+\c@LT@chunks=\count286
+\LT@p@ftn=\toks22
+)
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\tipa\tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\tipa\t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 357.
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)))
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\csquotes\csquotes.sty
+Package: csquotes 2011/10/22 v5.1d context-sensitive quotations
+\csq@reset=\count287
+\csq@gtype=\count288
+\csq@glevel=\count289
+\csq@qlevel=\count290
+\csq@maxlvl=\count291
+\csq@tshold=\count292
+\csq@ltx@everypar=\toks23
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\csquotes\csquotes.def
+File: csquotes.def 2011/10/22 v5.1d csquotes generic definitions
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\csquotes\csquotes.cfg
+File: csquotes.cfg 
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks24
+\verbatim@line=\toks25
+\verbatim@in@stream=\read2
+)
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\linguex\linguex.sty
+Package: linguex 2013/05/28 Example formatting for linguistics v. 4.3
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\gb4e\cgloss4e.sty
+\lineone=\box35
+\linetwo=\box36
+\linethree=\box37
+\wordone=\box38
+\wordtwo=\box39
+\wordthree=\box40
+\gline=\box41
+\glossglue=\skip121
+)
+\c@ExNo=\count293
+\c@SubExNo=\count294
+\c@SubSubExNo=\count295
+\c@FnExNo=\count296
+\c@ABC=\count297
+\currentlabel=\skip122
+\lessthanten=\skip123
+\lessthanhundred=\skip124
+\lessthanthousand=\skip125
+\@Exleftmargin=\skip126
+\Exlabelwidth=\skip127
+\Extopsep=\skip128
+\Exindent=\skip129
+\SubExleftmargin=\skip130
+\SubSubExleftmargin=\skip131
+\Exlabelsep=\skip132
+\alignSubExnegindent=\skip133
+\Exredux=\skip134
+\digitwidth=\skip135
+\mindigitwidth=\skip136
+\c@ExDepth=\count298
+\c@TempExDepth=\count299
+\CollectTokens=\toks26
+LaTeX Info: Redefining \b on input line 307.
+LaTeX Info: Redefining \c on input line 311.
+LaTeX Info: Redefining \d on input line 313.
+\c@tmpaEx=\count300
+)
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pdfpages.sty
+Package: pdfpages 2013/08/25 v0.4v Insert pages of external PDF documents (AM)
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\eso-pic\eso-pic.sty
+Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)))
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pppdftex.def
+File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box42
+\AM@toc@title=\toks27
+\c@AM@survey=\count301
+\AM@templatesizebox=\box43
+)
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box44
+\beforetitleunit=\skip137
+\aftertitleunit=\skip138
+\ttl@plus=\dimen121
+\ttl@minus=\dimen122
+\ttl@toksa=\toks28
+\titlewidth=\dimen123
+\titlewidthlast=\dimen124
+\titlewidthfirst=\dimen125
+)
+("L:\Dropbox\Link to Writing\PSU Requirements\Dissertation\Scrivener\Latex Outp
+ut\SupplementaryMaterial/UserDefinedCommands.tex")
+! Undefined control sequence.
+l.117 \college
+              {College of the Liberal Arts}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117 \college{C
+                ollege of the Liberal Arts}
+? 
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\block.tss
+File: block.tss 2011/12/15
+))
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+\lst@mode=\count302
+\lst@gtempboxa=\box45
+\lst@token=\toks29
+\lst@length=\count303
+\lst@currlwidth=\dimen126
+\lst@column=\count304
+\lst@pos=\count305
+\lst@lostspace=\dimen127
+\lst@width=\dimen128
+\lst@newlines=\count306
+\lst@lineno=\count307
+\lst@maxwidth=\dimen129
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count308
+\lst@skipnumbers=\count309
+\lst@framebox=\box46
+)
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2014/09/06 1.5e listings configuration
+))
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
+
+("L:\Dropbox\Link to Writing\PSU Requirements\Dissertation\Scrivener\Latex Outp
+ut\mmd-scrivcustom-begin-doc.tex"
+Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
+Package biblatex Info: ... file 'american-apa.lbx' found.
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex-apa\american-apa.
+lbx
+File: american-apa.lbx 2015/01/23 v6.7 APA biblatex localisation
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\lbx\american.lbx
+File: american.lbx 2014/06/25 v2.9a biblatex localization (PK/JW/AB)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\lbx\english.lbx
+File: english.lbx 2014/06/25 v2.9a biblatex localization (PK/JW/AB)
+)))
+
+Package biblatex Warning: Patching footnotes failed.
+(biblatex)                Footnote detection will not work.
+
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'american'.
+
+("L:\Dropbox\Link to Writing\PSU Requirements\Dissertation\Scrivener\Latex Outp
+ut\to pub.aux"
+("L:\Dropbox\Link to Writing\PSU Requirements\Dissertation\Scrivener\Latex Outp
+ut\Appendix-A/Appendix-A.aux")
+("L:\Dropbox\Link to Writing\PSU Requirements\Dissertation\Scrivener\Latex Outp
+ut\Appendix-B/Appendix-B.aux"))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 4.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 4.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 4.
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\latex\tipa\t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 4.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Info: Redefining \microtypecontext on input line 4.
+
+
+Package microtype Warning: `draft' option active.
+(microtype)                Disabling all micro-typographic extensions.
+(microtype)                This might lead to different line and page breaks.
+
+(C:\Users\jason\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count310
+\scratchdimen=\dimen130
+\scratchbox=\box47
+\nofMPsegments=\count311
+\nofMParguments=\count312
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count313
+\MPscratchDim=\dimen131
+\MPnumerator=\count314
+\makeMPintoPDFobject=\count315
+\everyMPtoPDFconversion=\toks31
+)
+Package biblatex Info: No input encoding detected.
+(biblatex)             Assuming 'ascii'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'ascii'.
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'to*pub.bbl' found.
+
+("L:\Dropbox\Link to Writing\PSU Requirements\Dissertation\Scrivener\Latex Outp
+ut\to pub.bbl")
+Package biblatex Info: Reference section=0 on input line 4.
+Package biblatex Info: Reference segment=0 on input line 4.
+\AtBeginShipoutBox=\box48
+\c@lstlisting=\count316
+ [1{C:/Users/jason/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+]
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 26.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd"
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [1
+
+]
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 31.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 31.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 31.
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 31.
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 31.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 31.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 31.
+LaTeX Font Info:    Try loading font information for U+msa on input line 31.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 31.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [2]
+("L:\Dropbox\Link to Writing\PSU Requirements\Dissertation\Scrivener\Latex Outp
+ut\SupplementaryMaterial/Abstract.tex") [3
+
+]
+("L:\Dropbox\Link to Writing\PSU Requirements\Dissertation\Scrivener\Latex Outp
+ut\to pub.toc")
+\tf@toc=\write4
+ [4
+
+]
+("L:\Dropbox\Link to Writing\PSU Requirements\Dissertation\Scrivener\Latex Outp
+ut\to pub.lof")
+\tf@lof=\write5
+ [5
+
+
+]
+("L:\Dropbox\Link to Writing\PSU Requirements\Dissertation\Scrivener\Latex Outp
+ut\to pub.lot")
+\tf@lot=\write6
+ [6
+
+
+]
+("L:\Dropbox\Link to Writing\PSU Requirements\Dissertation\Scrivener\Latex Outp
+ut\SupplementaryMaterial/ListOfSymbols.tex"
+
+LaTeX Warning: Reference `' on page vii undefined on input line 5.
+
+
+LaTeX Warning: Reference `' on page vii undefined on input line 8.
+
+
+LaTeX Warning: Reference `' on page vii undefined on input line 11.
+
+
+LaTeX Warning: Reference `' on page vii undefined on input line 14.
+
+
+LaTeX Warning: Reference `' on page vii undefined on input line 17.
+
+
+LaTeX Warning: Reference `' on page vii undefined on input line 20.
+
+
+LaTeX Warning: Reference `' on page vii undefined on input line 23.
+
+
+LaTeX Warning: Reference `' on page vii undefined on input line 26.
+
+) [7
+
+
+]
+("L:\Dropbox\Link to Writing\PSU Requirements\Dissertation\Scrivener\Latex Outp
+ut\SupplementaryMaterial/Dedication.tex") [8
+
+]
+No file Appendix-A/Appendix-A.tex.
+No file Appendix-B/Appendix-B.tex.
+
+! Package biblatex Error: '\bibliographystyle' invalid.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.108 	\bibliographystyle{GLG-bibstyle}
+                                       
+? 
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 	\bibliography
+                    {Biblio-Database}
+? 
+[1
+
+
+
+
+
+]
+("L:\Dropbox\Link to Writing\PSU Requirements\Dissertation\Scrivener\Latex Outp
+ut\SupplementaryMaterial/Vita.tex") [2
+
+]
+("L:\Dropbox\Link to Writing\PSU Requirements\Dissertation\Scrivener\Latex Outp
+ut\to pub.aux"
+("L:\Dropbox\Link to Writing\PSU Requirements\Dissertation\Scrivener\Latex Outp
+ut\Appendix-A/Appendix-A.aux")
+("L:\Dropbox\Link to Writing\PSU Requirements\Dissertation\Scrivener\Latex Outp
+ut\Appendix-B/Appendix-B.aux"))
+
+LaTeX Warning: There were undefined references.
+
+Package logreq Info: Writing requests to 'to*pub.run.xml'.
+ ) ) 
+Here is how much of TeX's memory you used:
+ 14899 strings out of 493921
+ 238615 string characters out of 3144876
+ 703116 words of memory out of 3000000
+ 17878 multiletter control sequences out of 15000+200000
+ 43515 words of font info for 45 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 46i,8n,45p,845b,1740s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files (x86
+)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files (x86)/MiKTeX 2.
+9/fonts/enc/dvips/lm/lm-ts1.enc} <C:\Users\jason\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/lm/lmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
+ublic/lm/lmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lm
+r12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><
+C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb>
+Output written on "to pub.pdf" (11 pages, 100323 bytes).
+PDF statistics:
+ 83 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,75 @@
+[0] Config.pm:321> INFO - This is Biber 1.9
+[1] Config.pm:324> INFO - Logfile is 'gullifer-diss.blg'
+[46] biber:277> INFO - === Sun Jul 19, 2015, 15:00:29
+[46] Biber.pm:334> INFO - Reading 'gullifer-diss.bcf'
+[182] Biber.pm:636> INFO - Found 143 citekeys in bib section 0
+[212] Biber.pm:3052> INFO - Processing section 0
+[241] Biber.pm:3190> INFO - Looking for bibtex format file '/home/jason/Documents/library.bib' for section 0
+[413] bibtex.pm:979> INFO - Decoding LaTeX character macros into UTF-8
+[590] bibtex.pm:853> INFO - Found BibTeX data source '/home/jason/Documents/library.bib'
+[637] Utils.pm:144> WARN - Duplicate entry key: 'Morford2014' in file '/home/jason/Documents/library.bib', skipping ...
+[645] Utils.pm:144> WARN - Duplicate entry key: 'Kroll' in file '/home/jason/Documents/library.bib', skipping ...
+[657] Utils.pm:144> WARN - Duplicate entry key: 'Meijer2003' in file '/home/jason/Documents/library.bib', skipping ...
+[664] Utils.pm:144> WARN - Duplicate entry key: 'Linck2009' in file '/home/jason/Documents/library.bib', skipping ...
+[666] Utils.pm:144> WARN - Duplicate entry key: 'Costa2009' in file '/home/jason/Documents/library.bib', skipping ...
+[675] Utils.pm:144> WARN - Duplicate entry key: 'Gollan2011' in file '/home/jason/Documents/library.bib', skipping ...
+[689] Utils.pm:144> WARN - Duplicate entry key: 'Marian2003' in file '/home/jason/Documents/library.bib', skipping ...
+[918] Utils.pm:144> WARN - BibTeX subsystem: /tmp/EhslGL1732/library.bib_8127.utf8, line 6, warning: 170 characters of junk seen at toplevel
+[3143] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[3143] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[3144] Biber.pm:2929> INFO - Sorting list 'apa' of type 'entry' with scheme 'apa' and locale 'en-US'
+[3144] Biber.pm:2933> INFO - No sort tailoring available for locale 'en-US'
+[4051] bbl.pm:517> INFO - Writing 'gullifer-diss.bbl' with encoding 'ascii'
+[4054] Utils.pm:144> WARN - The entry 'Alameda1995' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4057] Utils.pm:144> WARN - The entry 'Baten2010' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4060] Utils.pm:144> WARN - The entry 'Beauvillain1987a' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4062] Utils.pm:144> WARN - The entry 'Bernolet2010' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4066] Utils.pm:144> WARN - The entry 'Bialystok2015' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4069] Utils.pm:144> WARN - The entry 'Bock2000' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4072] Utils.pm:144> WARN - The entry 'Bock2007' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4075] Utils.pm:144> WARN - The entry 'Braver2002' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4079] Utils.pm:144> WARN - The entry 'Bybee2010' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4081] Utils.pm:144> WARN - The entry 'Cacoullos2010' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4086] Utils.pm:144> WARN - The entry 'Chambers2009' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4089] Utils.pm:144> WARN - The entry 'Chen2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4091] Utils.pm:144> WARN - The entry 'Chomsky1965' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4092] Utils.pm:144> WARN - The entry 'Chomsky1995' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4096] Utils.pm:144> WARN - The entry 'Costa1999' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4100] Utils.pm:144> WARN - The entry 'Costa2006' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4103] Utils.pm:144> WARN - The entry 'Costa2009' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4106] Utils.pm:144> WARN - The entry 'deBruin2015' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4112] Utils.pm:144> WARN - The entry 'Dijkstra1998a' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4115] Utils.pm:144> WARN - The entry 'Duffy2001' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4121] Utils.pm:144> WARN - The entry 'Elston-Guttler2005' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4125] Utils.pm:144> WARN - The entry 'Finkbeiner2006' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4130] Utils.pm:144> WARN - The entry 'Flett2012' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4134] Utils.pm:144> WARN - The entry 'Flett2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4137] Utils.pm:144> WARN - The entry 'Fodor1983' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4141] Utils.pm:144> WARN - The entry 'Garcia-Albea1998' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4145] Utils.pm:144> WARN - The entry 'Gollan2009' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4151] Utils.pm:144> WARN - The entry 'Gollan2011a' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4159] Utils.pm:144> WARN - The entry 'Guasch2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4165] Utils.pm:144> WARN - The entry 'Gullifer2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4169] Utils.pm:144> WARN - The entry 'Gullifer2011' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4175] Utils.pm:144> WARN - The entry 'Hartsuiker2004' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4178] Utils.pm:144> WARN - The entry 'Hartsuiker1999' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4182] Utils.pm:144> WARN - The entry 'Hartsuiker2008' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4187] Utils.pm:144> WARN - The entry 'Hoshino2008' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4189] Utils.pm:144> WARN - The entry 'Jacobs2005' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4195] Utils.pm:144> WARN - The entry 'LaHeij2005' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4201] Utils.pm:144> WARN - The entry 'Linck2009' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4206] Utils.pm:144> WARN - The entry 'McClelland1981' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4210] Utils.pm:144> WARN - The entry 'Morales2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4214] Utils.pm:144> WARN - The entry 'Morford2011' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4221] Utils.pm:144> WARN - The entry 'Paap2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4225] Utils.pm:144> WARN - The entry 'Pickering2002' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4229] Utils.pm:144> WARN - The entry 'Poplack1980' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4231] Utils.pm:144> WARN - The entry 'Potter1998' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4236] Utils.pm:144> WARN - The entry 'Sachez-Casas1992' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4240] Utils.pm:144> WARN - The entry 'Schwanenflugel1988' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4244] Utils.pm:144> WARN - The entry 'Sebastian-Galles2000' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4249] Utils.pm:144> WARN - The entry 'Szmrecsanyi2006' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4258] Utils.pm:144> WARN - The entry 'VanAssche2009' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4262] Utils.pm:144> WARN - The entry 'VanOrden1987' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[4266] bbl.pm:606> INFO - Output to gullifer-diss.bbl
+[4266] Biber.pm:107> INFO - WARNINGS: 59

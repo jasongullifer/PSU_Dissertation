@@ -1,0 +1,199 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {american}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Figures}{ix}{chapter*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Tables}{xi}{chapter*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Acknowledgments}{xiii}{chapter*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter..1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Parallel activation at the lexical level}{4}{section..1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Models of bilingual word recognition}{8}{section..1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Constraints on language co-activation}{10}{section..1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.1}Aspects of lexical form}{10}{subsection..1.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.2}Aspects of language context}{12}{subsection..1.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}What about the syntax?}{14}{section..1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}General directions\\ and methods}{17}{chapter..2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Participants}{20}{section..2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Word naming tasks}{21}{section..2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Selection of target words}{21}{subsection..2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Out of context word naming}{22}{subsection..2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3}Word naming in sentence context}{23}{subsection..2.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Cognitive tasks}{25}{section..2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}Automated operation-span}{25}{subsection..2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}AX continuous performance task (AXCPT)}{26}{subsection..2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.3}Flanker Task}{26}{subsection..2.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Linguistic tasks}{27}{section..2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}Spanish and English picture naming tasks}{27}{subsection..2.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.2}Grammar tasks}{28}{subsection..2.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Confederate picture description task}{28}{section..2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.1}Selection of materials}{28}{subsection..2.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.2}Procedure}{29}{subsection..2.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}Analyses}{30}{section..2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Norming studies: Word naming outside of sentence context}{32}{chapter..3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Introduction}{32}{section..3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Experiment 1: Monolinguals out-of-context}{33}{section..3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}Methods}{33}{subsection..3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.1.1}Participants}{33}{subsubsection..3.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.1.2}Materials}{34}{subsubsection..3.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.1.3}Procedure}{36}{subsubsection..3.2.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Results and Discussion}{37}{subsection..3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Experiment 2: Bilinguals}{40}{section..3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Methods}{40}{subsection..3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.1.1}Participants}{40}{subsubsection..3.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.1.2}Materials}{40}{subsubsection..3.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.1.3}Procedure}{40}{subsubsection..3.3.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}Results and Discussion}{40}{subsection..3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}General Discussion}{42}{section..3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}What about the syntax? Bilingual word recognition in sentence context}{46}{chapter..4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Introduction}{46}{section..4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}Evidence for parallel activation}{47}{subsection..4.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2}Are there constraints?}{51}{subsection..4.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.3}Co-activation at the syntactic level}{54}{subsection..4.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.4}Syntactic influences on lexical co-activation}{57}{subsection..4.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.5}The present study}{58}{subsection..4.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Experiment 1: Spanish-English bilinguals out-of-context}{61}{section..4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Methods}{61}{subsection..4.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.1.1}Participants}{61}{subsubsection..4.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.1.2}Materials}{62}{subsubsection..4.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.2.1.2.1}Monolingual control experiment}{64}{paragraph..4.2.1.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.1.3}Procedure}{65}{subsubsection..4.2.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}Results and Discussion}{66}{subsection..4.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Experiment 2: Spanish-English bilinguals\\ in-context}{70}{section..4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Methods}{70}{subsection..4.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.1.1}Participants}{70}{subsubsection..4.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.1.2}Materials}{72}{subsubsection..4.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.1.3}Procedure}{73}{subsubsection..4.3.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Results}{74}{subsection..4.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.1}Cognate analysis}{75}{subsubsection..4.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.2}Homograph analysis}{79}{subsubsection..4.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.3}Reanalysis of Experiments 1 and 2}{82}{subsubsection..4.3.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.3.2.3.1}Reanalysis of Experiment 1:\\ Spanish-English bilinguals out-of-context\\}{83}{paragraph..4.3.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.3.2.3.2}Reanalysis of Experiment 2:\\ Spanish-English bilinguals in-context\\}{87}{paragraph..4.3.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.4}Discussion}{96}{subsubsection..4.3.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}General Discussion}{98}{section..4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.1}Influences of syntactic context}{100}{subsection..4.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.2}Influences of language proficiency}{103}{subsection..4.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.3}Influences of executive control}{104}{subsection..4.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.4}Implications for models of word recognition}{106}{subsection..4.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Conclusion}{109}{section..4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Representation of bilingual\\ syntax: The role of word order}{111}{chapter..5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Introduction}{111}{section..5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.1}The role of word order overlap}{115}{subsection..5.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.2}The present study}{117}{subsection..5.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Methods}{119}{section..5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.1}Participants}{119}{subsection..5.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.2}Materials}{120}{subsection..5.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.3}Procedure}{121}{subsection..5.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Scoring}{122}{section..5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Analysis}{123}{section..5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.5}Results}{125}{section..5.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.6}General Discussion}{128}{section..5.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.1}Novel stimuli}{130}{subsection..5.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.2}Implicit learning}{131}{subsection..5.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.3}Extension of Spanish studies}{132}{subsection..5.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.4}Language specific representations}{133}{subsection..5.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.7}Conclusion}{133}{section..5.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}General discussion and conclusions}{134}{chapter..6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Summary of results}{135}{section..6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1.1}Summary of results from Chapter 3}{135}{subsection..6.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1.2}Summary of results from Chapter 4}{135}{subsection..6.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1.3}Summary of results from Chapter 5}{136}{subsection..6.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Conclusion}{137}{section..6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{141}{section..6.2}

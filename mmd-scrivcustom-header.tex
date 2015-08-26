@@ -1,0 +1,187 @@
+\documentclass[draft,phd,12pt]{psuthesis}
+%\documentclass[draft,phd,inlinechaptertoc]{psuthesis}
+%\documentclass[draft,ms]{psuthesis}
+%\documentclass[draft,honorsdepthead,honors]{psuthesis}
+%\documentclass[phd,12pt]{psuthesis}
+%\documentclass[draft,secondthesissupervisor,honors]{psuthesis}
+%\documentclass[draft,bs]{psuthesis}
+
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{textcomp}
+\usepackage{microtype}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Packages we like to use. %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{amsmath}
+\usepackage{amssymb}
+%\usepackage{amsthm}
+%\usepackage{exscale}
+%\usepackage[mathscr]{eucal}
+%\usepackage{bm}
+\usepackage{eqlist} % Makes for a nice list of symbols.
+\usepackage[final]{graphicx}
+\usepackage[dvipsnames]{color}
+\DeclareGraphicsExtensions{.pdf, .jpg}
+\usepackage[american]{babel}
+\usepackage[style=apa]{biblatex}
+\usepackage{longtable}
+\usepackage{tipa,csquotes,verbatim,graphicx,linguex,setspace,pdfpages}
+\DeclareLanguageMapping{american}{american-apa}
+\bibliography{/home/jason/texmf/bibtex/bib/library} %home use
+
+% http://www.tex.ac.uk/cgi-bin/texfaq2html?label=citesort
+%\usepackage{cite}
+
+\usepackage{titlesec}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Use of the hyperref package %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% This is optional and is included only for those students
+% who want to use it.
+%
+% To the hyperref package, uncomment the following line:
+%\usepackage{hyperref}
+%
+% Note that you should also uncomment the following line:
+%\renewcommand{\theHchapter}{\thepart.\thechapter}
+%
+% to work around some a problem hyperref has with the fact
+% the psuthesis class has unnumbered pages after which page
+% counters are reset.
+
+% Set the baselinestretch using the setspace package.
+% The LaTeX Companion claims that a \baselinestretch of
+% 1.24 gives one-and-a-half line spacing, which is allowed
+% by the PSU thesis office. As of October 18, 2013, the Graduate
+% School states ``The text of an eTD may be single-, double- or
+% one- and-a-half-spaced.'' Go nuts!
+\setstretch{1.24}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% SPECIAL SYMBOLS AND NEW COMMANDS %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{SupplementaryMaterial/UserDefinedCommands}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Renewed Float Parameters              %
+% (Makes floats fit better on the page) %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\floatpagefraction}{0.85}
+\renewcommand{\topfraction}      {0.85}
+\renewcommand{\bottomfraction}   {0.85}
+\renewcommand{\textfraction}     {0.15}
+
+% ----------------------------------------------------------- %
+
+%%%%%%%%%%%%%%%%
+% FRONT-MATTER %
+%%%%%%%%%%%%%%%%
+% Title
+\title{This is my title}
+
+% Author and Department
+\author{Jason William Gullifer}
+\dept{Psychology}
+% the degree will be conferred on this date
+\degreedate{August 2014}
+% year of your copyright
+\copyrightyear{2014}
+
+% This command is used for students submitting a thesis to the
+% Schreyer Honors College. The argument of this command should
+% contain every after the word ``requirements'' that appears on
+% the title page. This provides the needed flexibility for
+% all the degree types.
+%\honorsdegreeinfo{for a baccalaureate degree \\ in Engineering Science \\ with honors in Engineering Science}
+
+% This is the document type. For example, this could also be:
+%	Comprehensive Document
+%	Thesis Proposal
+%\documenttype{Thesis}
+\documenttype{Dissertation}
+%\documenttype{Comprehensive Document}
+
+
+% This will generally be The Graduate School, though you can
+% put anything in here to suit your needs.
+\submittedto{The Graduate School}
+
+% This is the college to in which you are submitting the
+% thesis/dissertation.
+\college{College of the Liberal Arts}
+
+
+%%%%%%%%%%%%%%%%%%
+% Signatory Page %
+%%%%%%%%%%%%%%%%%%
+% You can have up to 7 committee members, i.e., one advisor
+% and up to 6 readers.
+%
+% Begin by specifying the number of readers.
+\numberofreaders{5}
+
+% For baccalaureate honors degrees, enter the name of your
+% honors adviser below.
+%\honorsadviser{Honors P. Adviser}
+
+% For baccalaureate honors degrees, if you have a second
+% Thesis Supervisor, enter his or her name below.
+%\secondthesissupervisor{Second T. Supervisor}
+
+% For baccalaureate honors degrees, certain departments
+% (e.g., Engineering Science and Mechanics) require the
+% signature of the department head. In that case, enter the
+% name of your department head below.
+%\honorsdepthead{Department Q. Head}
+
+% Input reader information below. The optional argument, which
+% comes first, goes on the second line before the name.
+\advisor[Thesis Co-Advisor]
+        {Judith F. Kroll}
+        {Distinguished Professor of Psychology, Linguistics, and Women's Studies\\
+        Director, Center for Language Science}
+
+\readerone[Thesis Co-Advisor]
+          {Paola E. Dussias}
+          {Professor of Spanish, Linguistics, and Psychology\\
+          Associate Director, Center for Language Science}
+
+\readertwo[]
+           {Carol Miller}
+           {Associate Professor of Communication Sciences and Disorders}
+
+\readerthree[]
+          {Janet Van Hell}
+          {Professor Psychology and Linguistics\\
+           Director, Linguistics Program}
+
+\readerfour[]
+            {Brad Wyble}
+            {Assistant Professor of Psychology}
+
+\readerfive[Department Head]
+           {Melvin M. Mark}
+           {Professor of Psychology}
+
+
+% Format the Chapter headings using the titlesec package.
+% You can format section headings and the like here too.
+\definecolor{gray75}{gray}{0.75}
+\newcommand{\hsp}{\hspace{15pt}}
+\titleformat{\chapter}[display]{\fontsize{30}{30}\selectfont\bfseries\sffamily}{Chapter \thechapter\hsp\textcolor{gray75}{\raisebox{3pt}{|}}}{0pt}{}{}
+
+\titleformat{\section}[block]{\Large\bfseries\sffamily}{\thesection}{12pt}{}{}
+\titleformat{\subsection}[block]{\large\bfseries\sffamily}{\thesubsection}{12pt}{}{}
+
+
+% Makes use of LaTeX's include facility. Add as many chapters
+% and appendices as you like.
+
+
+\usepackage{listings}

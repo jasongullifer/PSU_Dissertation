@@ -1,0 +1,35 @@
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{ap.png}
+\caption{Plotted model fits for the active and passive priming model.}
+\label{ap}
+\end{figure}
+
+\clearpage
+
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{ap_1.png}
+\caption{Plotted model fits for the active and passive priming model including only high proficiency bilinguals.}
+\label{ap_1}
+\end{figure}
+
+\clearpage
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{dat.png}
+\caption{Plotted model fits for the dative priming model.}
+\label{dat}
+\end{figure}
+
+\clearpage
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{dat_1.png}
+\caption{Plotted model fits for the dative priming model including only high proficiency bilinguals.}
+\label{dat_1}
+\end{figure}
